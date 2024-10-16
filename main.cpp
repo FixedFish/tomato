@@ -5,7 +5,8 @@ int main() {
     return 0;
 }
 
-// ducks
+/*
 int calc(int x, int y) {
     return x ** y;
 }
+*/
